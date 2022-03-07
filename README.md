@@ -1,61 +1,58 @@
 App Store Checklist
-===================
+====================
 
 
-**Before submitting to the App Store, make sure your app fullfills all these checks!**
+**在提交到 App Store 之前，请确保您的应用程序满足所有这些检查！**
 
 
-### Safety
-- [ ] Does not contain any Objectionable Content (content that is offensive, insensitive, upsetting, intended to disgust, or in exceptionally poor taste)
-- [ ] Has filtering and reporting mechanism for User Generated Content
-- [ ] Does not risk physical harm of user
-- [ ] Developer Contact Information is **relevant** and **up to date**
-- [ ] No continuous vibration
+＃＃＃ 安全
+- [ ] 不包含任何令人反感的内容（令人反感、麻木不仁、令人不安、令人反感或品味极差的内容）
+- []具有用户生成内容的过滤和报告机制
+- [ ] 不会对用户造成身体伤害
+- [ ] 开发者联系信息是**相关的**和**最新的**
+- [ ] 无连续振动
 
 
-### Performance
-- [ ] Doesn't have a long startup/load time
-- [ ] Tells the user if and when their device loses its network connection.
-- [ ] App is Complete and has no Bugs
-- [ ] App is not a Beta, Demo or Trial
-- [ ] Metadata is Accurate. No Hidden or Undocumented Features
-- [ ] Compatible with iPad and iPhones running **latest iOS**
-- [ ] Only uses **public APIs** 
-- [ ] Compatible with IPv6
-- [ ] Does not include names, imagery or icons of any **mobile platforms** (i.e. Apple Watch, iOS, Android etc) unless part of an approved specific feature
+＃＃＃ 表现
+- []没有很长的启动/加载时间
+- [ ] 告诉用户他们的设备是否以及何时失去网络连接。
+- [ ] 应用程序已完成且没有错误
+- [ ] 应用程序不是测试版、演示版或试用版
+- [ ] 元数据是准确的。没有隐藏或未记录的功能
+- [ ] 与运行**最新 iOS** 的 iPad 和 iPhone 兼容
+- [ ] 仅使用**公共 API**
+- [ ] 与 IPv6 兼容
+- [ ] 不包括任何**移动平台**（即 Apple Watch、iOS、Android 等）的名称、图像或图标，除非属于已获批准的特定功能的一部分
 
-### Business
-- [ ] Does not mention other supported platforms
-- [ ] In-App Purchases are **only purchasable** through Apple's IAP system
-- [ ] Subscriptions should provide **ongoing value to a custsomer** (i.e. be given new content)
-- [ ] Subscription Users should be able to **easily upgrade/downgrade**
-- [ ] Should not use **content codes** to unlock new content
-- [ ] Should not be a **catalog of other apps** (aka not compete with the App Store)
-- [ ] Insurance Apps **must be free**
-- [ ] Should not **restrict by location or carrier**
+＃＃＃ 商业
+- [ ] 未提及其他支持的平台
+- [ ] 应用内购买**只能通过 Apple 的 IAP 系统购买**
+- [ ] 订阅应为客户提供**持续价值**（即获得新内容）
+- [ ] 订阅用户应该能够**轻松升级/降级**
+- [ ] 不应使用**内容代码**来解锁新内容
+- [ ] 不应该是**其他应用程序的目录**（也不能与 App Store 竞争）
+- [ ] 保险应用程序**必须免费**
+- [ ] 不应**受地点或运营商限制**
 
-### Design
-- [ ] Name does not contain "Beta", "Demo" or "Trial"
-- [ ] Follows Apple's (Human Interface Guidelines)[https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/]
-- [ ] All Icon sizes should look identical
-- [ ] Doesn't contain porn
-- [ ] Doesn't use Apple’s UI Graphics or Logos
-- [ ] Avoid copying core functionality of the OS’s pre-installed apps
-- [ ] Design is original. Not a copyact
-- [ ] Isn't a repackaged website
-- [ ] Doesn't have the **same Bundle IDs** as another submitted App
-- [ ] Complies with (App Extension Programming Guide)[https://developer.apple.com/library/content/documentation/General/Conceptual/ExtensibilityPG/index.html#//apple_ref/doc/uid/TP40014214] 
-- [ ] Does not scrape from any **Apple site or service**
+＃＃＃ 设计
+- [ ] 名称不包含“Beta”、“Demo”或“Trial”
+- [ ] 遵循 Apple 的（人机界面指南）[https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/]
+- [ ] 所有图标大小应该看起来相同
+- [ ] 不包含色情内容
+- [ ] 不使用 Apple 的 UI 图形或徽标
+- [ ] 避免复制操作系统预装应用程序的核心功能
+- [ ] 设计是原创的。不是抄袭
+- [ ] 不是重新包装的网站
+- [ ] 与另一个提交的应用程序没有**相同的 Bundle IDs**
+- [ ] 符合（应用程序扩展编程指南）[https://developer.apple.com/library/content/documentation/General/Conceptual/ExtensibilityPG/index.html#//apple_ref/doc/uid/TP40014214]
+- [ ] 不会从任何 **Apple 网站或服务中抓取**
 
-### Legal
-- [ ] Has a Privacy Policy (if it stores user data)
-- [ ] Obtains permission from user before transmitting personal data
-- [ ] Data from HomeKit API is not used for advertising
-- [ ] Dose not use or disclose to third parties data gathered in the health, fitness, and medical research context
-- [ ] Does not write **false/inaccurate data** to HealthKit or any other medical research/health management apps
-- [ ] Obtains consent from participants/guardians before conducting health-related human subject research
-- [ ] App does not use the Location API to provide emergency services or control autonomous vehicles
-- [ ] If App has Gambling, only if you have met your legal obligations wherever it is available
-
-
-
+＃＃＃ 合法的
+- [ ] 有隐私政策（如果它存储用户数据）
+- [ ] 在传输个人数据之前获得用户的许可
+- [ ] 来自 HomeKit API 的数据不用于广告
+- [ ] 请勿使用或向第三方披露在健康、健身和医学研究背景下收集的数据
+- [ ] 不会将**错误/不准确的数据**写入 HealthKit 或任何其他医学研究/健康管理应用程序
+- [ ] 在进行与健康相关的人体受试者研究之前获得参与者/监护人的同意
+- [ ] 应用程序不使用 Location API 来提供紧急服务或控制自动驾驶车辆
+- [ ] 如果应用程序有赌博，仅当您已履行您的法律义务时
